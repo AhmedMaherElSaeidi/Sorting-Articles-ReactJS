@@ -8,6 +8,12 @@ const title = "Sorting Articles";
 
 function App({articles}) {
 
+  const sortUpvoted = (arti) =>{
+    
+  }
+  const mostUpvoted = () => {
+    articles.
+  }
     return (
         <div className="App">
             <h8k-navbar header={title}></h8k-navbar>
